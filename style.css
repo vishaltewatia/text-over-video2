@@ -30,3 +30,8 @@
   font-weight: 1000;
   mix-blend-mode: multiply;
 }
+p {
+  font-size: 9px;
+
+  margin-top: 8em;
+}
